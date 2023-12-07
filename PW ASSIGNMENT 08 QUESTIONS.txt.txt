@@ -1,0 +1,16 @@
+Task 1:
+Problem Statement
+Write code to position 5 equal-sized (50 x 50px) boxes A, B, C, D, and E as follows, 
+1. box A 200px from the left, and 200px from the top of the viewport.
+2. box 8-30px left, and -30px above from the center of box A.
+3. box 8-30px right, and 30px above from the center of box A..
+4. box 8-30px left, and 30px below from the center of box A.
+5. box 8-30px right, and -30px below from the center of box A
+
+Task 2: Explain the difference between Absolute and Relative positioning.
+
+Task 3: Create a card as shown in the picture below. (You can use CSS float property only for layout).
+
+Task 4: Create a simple header that sticks to the top of a webpage upon scrolling.
+
+Task 5: Explain the z-index with a code example.

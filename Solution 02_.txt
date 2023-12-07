@@ -1,0 +1,30 @@
+Difference between Absolute and Relative positioning.
+
+1.Reference Point:
+
+Absolute: Positioned relative to its closest positioned ancestor or the initial containing block.
+Relative: Positioned relative to its normal position in the document flow.
+
+
+2.Impact on Layout:
+
+Absolute: Does not affect the layout of other elements.
+Relative: Affects the layout of other elements as it still occupies space in the document flow.
+
+
+3.Document Flow:
+
+Absolute: Taken out of the normal document flow.
+Relative: Positioned within the normal document flow.
+
+
+4.Usage:
+
+Absolute: Useful for precise positioning without affecting surrounding elements.
+Relative: Used when you want to adjust an element's position without removing it from the document flow.
+
+
+5.Ancestor Dependency:
+
+Absolute: Positioned relative to the closest positioned ancestor.
+Relative: Positioned relative to its own layout space, but can be influenced by ancestor positioning.
